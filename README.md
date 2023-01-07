@@ -4,11 +4,11 @@
 
 # Getting Started
 
- To use Collegy, simply visit our website at https://collegy.org/ and take the survey. From there, you can browse through the list of colleges that we've recommended for you, or you can use the search tools to find colleges based on specific criteria (e.g., location, size, cost, etc.).
+ To use Collegy, simply visit our website at https://collegy.org/ and take the survey. From there, you can browse through the list of colleges that we've recommended for you, or you can use the search tools to find colleges that you want to learn more about.
 
 # Features
 
 - Customized college recommendations based on a survey of your preferences and interests
--Tools to explore colleges and their statistics
--Ability to compare colleges side-by-side
--We hope Collegy helps you find the right college for you!
+- Tools to explore colleges and their statistics
+- Ability to compare colleges side-by-side
+- We hope Collegy helps you find the right college for you!
